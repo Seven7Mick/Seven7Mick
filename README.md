@@ -21,6 +21,11 @@
     <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   </p>
+
+  <p align="center">
+    <img alig src="https://github-profile-trophy.vercel.app/?username=Seven7Mick&theme=onedark&column=-1" />
+  </p>
+
 </p>
 <!--
 **Seven7Mick/Seven7Mick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
