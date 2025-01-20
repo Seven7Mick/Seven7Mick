@@ -38,7 +38,7 @@
 
 </p>
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/Seven7Mick.gif?z=6)](https://github4life.herokuapp.com/Seven7Mick)
+[![GitHub Game of Life](https://github4life.herokuapp.com/Seven7Mick.gif?dark=true)](https://github4life.herokuapp.com/Seven7Mick)
 
 <!--
 **Seven7Mick/Seven7Mick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
