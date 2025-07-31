@@ -1,8 +1,7 @@
 ### Hi there 👋
 <p>
   <p align="center">
-    <img src ="https://github-readme-streak-stats.herokuapp.com?user=Seven7Mick&theme=darcula&hide_border=true&background=FFFFFF00">
-    <img height="auto" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Seven7Mick&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+    <img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seven7Mick&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   </p>
 
   <p align="center">
@@ -32,6 +31,11 @@
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   </p>
 
+<!--
+  <p align="center">
+    <img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api?username=seven7mick&theme=darcula&show_icons=true&hide_border=true&count_private=true">
+  </p>
+-->
   <p align="center">
     <img alig src="https://github-profile-trophy.vercel.app/?username=Seven7Mick&theme=onedark&column=-1" />
   </p>
